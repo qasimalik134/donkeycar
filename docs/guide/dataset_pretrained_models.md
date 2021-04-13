@@ -7,7 +7,7 @@ The purpose of providing a sample dataset and pre-trained models here is to help
 
 ### Dataset in real world
 
-1. Sample dataset #1 by Tawn - 2.0GB , [Link](https://drive.google.com/file/d/13dXSoHx6YpTvesdyUMe6o_ZfyYTYlfaK/view?usp=sharing)
+1. Sample dataset #1 by Tawn - 2.0GB , [Link](https://drive.google.com/file/d/13dXSoHx6YpTvesdyUMe6o_ZfyYTYlfaK/view?usp=sharing) (Need to be updated as per newer version of donkey car)
 
 ### Dataset in simulator
 
